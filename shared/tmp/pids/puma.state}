@@ -1,0 +1,4 @@
+---
+pid: 18488
+control_url: unix:///home/zhilu/rails/blogs/blog/shared/tmp/sockets/pumactl.sock
+control_auth_token: c31a4eb8a64f2c65ecc05dd6df41ef7
